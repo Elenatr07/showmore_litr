@@ -142,6 +142,16 @@ margin-top: 52px;
 @media(max-width:390px) {
     .services_text {
         font-weight: 200;
+        font-size: 14px;
         
+    }
+    .services_header {
+        font-weight: 300;
+        font-size: 15px;
+        margin-top: 45px;
+    }
+    .list-item {
+        padding: 45px 17px;
+        height: 400px
     }
 }
