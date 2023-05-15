@@ -40,7 +40,7 @@
         linear-gradient(147.99deg, #CB328F 0%, #CB328F 20%, #97238A 40%, #4E4F99 60%, #219DDE 80%, #22DCD9 100%) border-box;
     padding: 10px;
     border: 1px solid transparent;
-    padding: 60px 26px ;
+    padding: 60px 22px ;
     margin: 50px 25px;
 }
 
@@ -133,6 +133,7 @@ margin-top: 52px;
     }
     .list-item {
         width: 321px;
+        padding: 60px 18px ;
     }
     .services_items {
         padding-bottom: 0;
